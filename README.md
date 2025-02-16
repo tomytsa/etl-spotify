@@ -1,32 +1,55 @@
-# ETL de Spotify - Canciones de Grunge 🎵  
+# ETL de Spotify - Canciones de Grunge
 
-Proyecto ETL para extraer datos de canciones de Grunge desde la API de Spotify, transformarlos con Pandas y cargarlos en una base de datos MySQL.  
+Este proyecto ETL (Extract, Transform, Load) está diseñado para extraer datos de canciones del género Grunge desde la API de Spotify, transformarlos utilizando Pandas y cargarlos en una base de datos MySQL.
 
-## 🚀 Tecnologías utilizadas  
-- Python  
-- Pandas  
-- SQLAlchemy  
-- MySQL  
+## Tecnologías utilizadas
 
-## 📌 Estructura del Proyecto  
-├── notebooks/       # Jupyter Notebooks
-├── src/             # Código Python (si hay scripts separados)
-├── data/            # Archivos de datos (CSV, JSON, etc.)
-├── README.md        # Documentación
-├── requirements.txt # Dependencias del proyecto
-├── .gitignore       # Archivos a ignorar en Git
+- **Python**: Lenguaje de programación principal.
+- **Pandas**: Biblioteca para la manipulación y análisis de datos.
+- **SQLAlchemy**: Herramienta para la interacción con bases de datos SQL.
+- **MySQL**: Sistema de gestión de bases de datos relacional.
 
-## 🔧 Instalación y ejecución
+## Estructura del Proyecto
 
-git clone https://github.com/tomytsa/etl-spotify.git
-cd etl-spotify
+```
+etl-spotify/
+├── notebooks/          # Jupyter Notebooks para análisis y pruebas
+├── src/                # Código Python (scripts separados)
+├── data/               # Archivos de datos (CSV, JSON, etc.)
+├── README.md           # Documentación del proyecto
+├── requirements.txt    # Dependencias del proyecto
+├── .gitignore          # Archivos a ignorar en Git
+```
 
-Crear un entorno virtual e instalar dependencias:
-python -m venv env
-source env/bin/activate  # En Mac/Linux
-env\Scripts\activate  # En Windows
-pip install -r requirements.txt
-jupyter notebook
-📌 Contacto
-GitHub: tomytsa
-LinkedIn: 
+## Instalación y ejecución
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/tomytsa/etl-spotify.git
+   cd etl-spotify
+   ```
+
+2. Crea un entorno virtual e instala las dependencias:
+
+   ```bash
+   python -m venv env
+   source env/bin/activate  # En Mac/Linux
+   env\Scripts\activate     # En Windows
+   pip install -r requirements.txt
+   ```
+
+3. Ejecuta Jupyter Notebook para acceder a los notebooks de análisis:
+
+   ```bash
+   jupyter notebook
+   ```
+
+## Contacto
+
+- **GitHub**: [tomytsa](https://github.com/tomytsa)
+- **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+
+---
+
+Este README proporciona una guía clara y estructurada para la instalación, ejecución y comprensión del proyecto. Siéntete libre de modificar o ampliar la información según sea necesario.
