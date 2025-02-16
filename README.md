@@ -48,6 +48,6 @@ etl-spotify/
 ## Contacto
 
 - **GitHub**: [tomytsa](https://github.com/tomytsa)
-- **LinkedIn**: [Tu perfil de LinkedIn](www.linkedin.com/in/tomastsangoulas)
+- **LinkedIn**: [Tomas Tsangoulas](www.linkedin.com/in/tomastsangoulas)
 
 ---
