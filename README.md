@@ -48,8 +48,6 @@ etl-spotify/
 ## Contacto
 
 - **GitHub**: [tomytsa](https://github.com/tomytsa)
-- **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn**: [Tu perfil de LinkedIn](www.linkedin.com/in/tomastsangoulas)
 
 ---
-
-Este README proporciona una guía clara y estructurada para la instalación, ejecución y comprensión del proyecto. Siéntete libre de modificar o ampliar la información según sea necesario.
